@@ -1,0 +1,14 @@
+C:\Users\josia\source\repos\Program4\Program4\bin\Debug\netcoreapp3.1\Program4.exe
+C:\Users\josia\source\repos\Program4\Program4\bin\Debug\netcoreapp3.1\Program4.deps.json
+C:\Users\josia\source\repos\Program4\Program4\bin\Debug\netcoreapp3.1\Program4.runtimeconfig.json
+C:\Users\josia\source\repos\Program4\Program4\bin\Debug\netcoreapp3.1\Program4.runtimeconfig.dev.json
+C:\Users\josia\source\repos\Program4\Program4\bin\Debug\netcoreapp3.1\Program4.dll
+C:\Users\josia\source\repos\Program4\Program4\bin\Debug\netcoreapp3.1\Program4.pdb
+C:\Users\josia\source\repos\Program4\Program4\obj\Debug\netcoreapp3.1\Program4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josia\source\repos\Program4\Program4\obj\Debug\netcoreapp3.1\Program4.AssemblyInfoInputs.cache
+C:\Users\josia\source\repos\Program4\Program4\obj\Debug\netcoreapp3.1\Program4.AssemblyInfo.cs
+C:\Users\josia\source\repos\Program4\Program4\obj\Debug\netcoreapp3.1\Program4.csproj.CoreCompileInputs.cache
+C:\Users\josia\source\repos\Program4\Program4\obj\Debug\netcoreapp3.1\Program4.dll
+C:\Users\josia\source\repos\Program4\Program4\obj\Debug\netcoreapp3.1\Program4.pdb
+C:\Users\josia\source\repos\Program4\Program4\obj\Debug\netcoreapp3.1\Program4.genruntimeconfig.cache
+C:\Users\josia\source\repos\Program4\Program4\obj\Debug\netcoreapp3.1\Program4.csproj.AssemblyReference.cache
